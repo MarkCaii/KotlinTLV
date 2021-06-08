@@ -78,4 +78,4 @@ MarkCaii, caimark93@gmail.com
 ​
 ## License
 ​
-KotlinTLV is available under the MIT license. See the LICENSE file for more info.
+KotlinTLV is available under the Apache license. See the LICENSE file for more info.
